@@ -1,4 +1,4 @@
-package article41_43
+package ch41_43
 
 type singleton struct {
 }

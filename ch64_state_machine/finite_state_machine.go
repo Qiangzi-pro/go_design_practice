@@ -1,4 +1,4 @@
-package article64_state_machine
+package ch64_state_machine
 
 type State int32
 

@@ -1,4 +1,4 @@
-package article46
+package ch46
 
 import "testing"
 

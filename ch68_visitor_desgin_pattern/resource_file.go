@@ -1,4 +1,4 @@
-package article68_visitor_desgin_pattern
+package ch68_visitor_desgin_pattern
 
 import (
 	"fmt"
